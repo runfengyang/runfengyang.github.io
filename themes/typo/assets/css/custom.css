@@ -1,0 +1,23 @@
+/* Place custom css here */
+
+/* Add margin to figure elements to prevent overlap with headings */
+figure {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+/* Fix breadcrumbs negative margin causing overlap */
+.breadcrumbs {
+  margin-bottom: 1rem !important;
+}
+
+/* Ensure proper spacing between title and content */
+.single-title {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Ensure h2 headings have proper spacing before images */
+h2 {
+  margin-bottom: 1.5rem;
+}
