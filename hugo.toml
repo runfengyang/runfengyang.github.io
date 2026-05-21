@@ -46,7 +46,11 @@ home = "Home"
 [[params.social]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/runfeng-yang-cfa-54b7a0a7"
- 
+
+[[params.social]]
+name = "academia"
+url = "https://scholar.google.com/citations?hl=en&imq=Runfeng+Yang"
+
 #[[params.social]]
 #name = "github"
 #url = "https://github.com/user"
