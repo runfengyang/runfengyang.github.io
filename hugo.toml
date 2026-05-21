@@ -48,7 +48,7 @@ name = "linkedin"
 url = "https://www.linkedin.com/in/runfeng-yang-cfa-54b7a0a7"
 
 [[params.social]]
-name = "academia"
+name = "googlescholar"
 url = "https://scholar.google.com/citations?hl=en&imq=Runfeng+Yang"
 
 #[[params.social]]
